@@ -902,9 +902,9 @@ Home Section style
     background: url(../images/whitehole_business/film.jpg) no-repeat scroll  center center;
     background-size: cover;
     position: relative;
-    padding-top: 300px;
-    padding-bottom: 300px;
-    width:100%;
+    padding-top: 200px;
+    padding-bottom: 20%;
+    height: :100%;
 }
 
 .brand{
